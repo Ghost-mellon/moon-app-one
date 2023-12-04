@@ -1,0 +1,11 @@
+[33mcommit 848d7626de5b2ff3119f2bea356a9f195ef06e02[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ghost-mellon <cybermonk369@gmail.com>
+Date:   Sun Dec 3 21:57:34 2023 +0530
+
+    commit with material & react
+
+[33mcommit a52ad01bdd123d13c3d639fd201b56f247aff151[m
+Author: Ghost-mellon <cybermonk369@gmail.com>
+Date:   Sun Dec 3 18:23:30 2023 +0530
+
+    Initialize project using Create React App
